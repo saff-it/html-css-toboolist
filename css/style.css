@@ -35,11 +35,15 @@ header{
     padding: 10px;
 
 }
-
 #logo{
+    height: 50px;
+    vertical-align: middle;
+}
+
+#logo-text{
     font-size: 35px;
     font-weight: 900;
-    vertical-align: auto;
+  
 }
 
 /* 2 bottoni  */
