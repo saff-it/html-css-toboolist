@@ -64,7 +64,7 @@ button{
 
 /* le 3 sezioni  */
 .tendina{
-    padding-top: 20px;
+    padding-top: 26px;
 }
 
 #editorial{
@@ -99,6 +99,22 @@ button{
     padding: 5px;
 }
 
+#website{
+    background-color: rgb(228, 9, 184);
+    color: white;
+    border-radius: 8px;
+    font-size: 8px;
+    padding: 5px;
+}
+
+#sales{
+    background-color: rgb(141, 223, 27);
+    color: white;
+    border-radius: 8px;
+    font-size: 8px;
+    padding: 5px;
+}
+
 #V{
     color: rgb(71, 224, 71);
     border: 1px solid rgb(71, 224, 71);
@@ -112,7 +128,6 @@ button{
     border-radius: 50%;
     margin-right: 8px;
 }
-
 
 
 h4{
