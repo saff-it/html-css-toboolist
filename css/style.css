@@ -43,7 +43,8 @@ header{
 #logo-text{
     font-size: 35px;
     font-weight: 900;
-  
+    height: 50px;
+    vertical-align: middle;
 }
 
 /* 2 bottoni  */
