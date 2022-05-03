@@ -8,6 +8,19 @@ body{
     background-color: rgb(203, 217, 222);
 }
 
+.container{
+    width: 1200px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 3px;
+}
+
+section{
+    margin-left: 50px;
+}
+
+/* header sito  */
+
 header{
     background-color: white;
     padding: 10px;
@@ -20,9 +33,24 @@ header{
     vertical-align: auto;
 }
 
-.container{
-    width: 1200px;
-    background-color: white;
-    margin: 50px auto;
-    border-radius: 3px;
+/* 2 bottoni  */
+button{
+    border-radius: 4px;
+    border: 1;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    font-size: 10px;
 }
+
+#button1{
+    color: white;
+    background-color: rgb(36, 108, 215);
+}
+
+#button2{
+    color: rgb(203, 217, 222);
+    background-color: white;
+    border-color: rgb(203, 217, 222);
+}
+
