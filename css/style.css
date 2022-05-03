@@ -8,15 +8,23 @@ body{
     background-color: rgb(203, 217, 222);
 }
 
-.container{
+.container1{
     width: 1200px;
     background-color: white;
-    margin: 50px auto;
-    border-radius: 3px;
+    margin: 50px auto 0 auto;
+    border-radius: 3px 3px 0 0;
+}
+
+.container2{
+    width: 1200px;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 0 0 3px 3px;
 }
 
 section{
     margin-left: 50px;
+    margin-top: 1px;
 }
 
 /* header sito  */
