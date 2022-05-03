@@ -17,5 +17,12 @@ header{
 #logo{
     font-size: 35px;
     font-weight: bold;
+    vertical-align: auto;
 }
 
+.container{
+    width: 1200px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 3px;
+}
